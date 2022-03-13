@@ -1,3 +1,8 @@
+#cgRNASP
+
+# Compilation and usage under linux
+
+```
 gcc cgRNASP.c -lm -o cgRNASP
 
 # Run in the example dir
@@ -12,3 +17,4 @@ gcc cgRNASP.c -lm -o cgRNASP
 
 Note: the subfolder "data/" and compiled "cgRNASP" should be in the same folder.
 Please feel free to contact us if you have any question! zjtan@whu.edu.cn
+```
