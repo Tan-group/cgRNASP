@@ -1,6 +1,6 @@
-#cgRNASP
+# cgRNASP
 
-
+Coarse-grained statistical potential involving three CG beads at P, C4’, and N9 atoms for purine (or N1 atom for pyrimidine).
 
 ```
 # Compilation and usage under linux
