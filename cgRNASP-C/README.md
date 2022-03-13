@@ -14,8 +14,8 @@ gcc cgRNASP-PC.c -lm -o cgRNASP-PC
 
 # Output:
    
-# 2_bujnicki_1_rpr.pdb     -387.989862 kBT
-# 4_adamiak_1_rpr.pdb     -540.519798 kBT
+# 2_bujnicki_1_rpr.pdb     -1209.683059 kBT
+# 4_adamiak_1_rpr.pdb     -1545.437487 kBT
 
 Note: the subfolder "data/" and compiled "cgRNASP-PC" should be in the same folder.
 Please feel free to contact us if you have any question! zjtan@whu.edu.cn
