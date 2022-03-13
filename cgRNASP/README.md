@@ -1,8 +1,10 @@
 #cgRNASP
 
-# Compilation and usage under linux
+
 
 ```
+# Compilation and usage under linux
+
 gcc cgRNASP.c -lm -o cgRNASP
 
 # Run in the example dir
