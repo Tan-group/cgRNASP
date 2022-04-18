@@ -1,0 +1,2 @@
+4_adamiak_1_rpr.pdb     -450.422337 kBT
+15_3dRNAAS2_2_rpr.pdb     -168.510059 kBT
