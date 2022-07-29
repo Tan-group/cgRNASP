@@ -1,0 +1,2 @@
+2_bujnicki_1_rpr.pdb     -1309.032031 kBT
+4_adamiak_1_rpr.pdb     -1673.517967 kBT
