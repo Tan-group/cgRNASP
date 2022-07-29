@@ -268,7 +268,7 @@ int main(int argc, char *argv[])
   if(strcmp(type2[n1],type2[n1+1])!=0 || strcmp(num[n1],num[n1+1])!=0 || strcmp(chain[n1],chain[n1+1])!=0)
    length++;
  
- energy = 1.0*energy1 + 1.0*energy2 + 1.7*energy3 + 3.5*energy4/fun(length);
+ energy = 1.0*energy1 + 1.5*energy2 + 2.4*energy3 + 6.5*energy4/fun(length);
 
  fprintf(FP,"%s     %lf kBT\n", file_name[nnn], energy);
  }
