@@ -2,6 +2,8 @@
 
 Coarse-grained statistical potential involving three CG beads at P, C4’, and N9 atoms for purine (or N1 atom for pyrimidine).
 
+# Compilation and usage under linux
+
 ```
 # Compilation
 
@@ -20,6 +22,4 @@ Coarse-grained statistical potential involving three CG beads at P, C4’, and N
 Note: the subfolder "data/" and compiled "cgRNASP" should be in the same folder.
 Please feel free to contact us if you have any question! zjtan@whu.edu.cn
 ```
-
-
 
