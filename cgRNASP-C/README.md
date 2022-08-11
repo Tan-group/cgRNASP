@@ -3,11 +3,11 @@
 Coarse-grained statistical potential involving two CG beads at P, C4’.
 
 ```
-# Compilation and usage under linux
+# Compilation under linux
 
 gcc cgRNASP-PC.c -lm -o cgRNASP-PC
 
-# An example running the “example” dir
+# An example running in the “example” dir
 
  N=`ls *.pdb | wc -l`
  ./cgRNASP-PC ./ ${N} energy_list.txt
