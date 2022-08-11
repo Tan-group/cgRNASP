@@ -2,8 +2,10 @@
 
 Coarse-grained statistical potential involving two CG beads at P, C4’.
 
+# Compilation and usage under linux
+
 ```
-# Compilation under linux
+# Compilation
 
 gcc cgRNASP-PC.c -lm -o cgRNASP-PC
 
