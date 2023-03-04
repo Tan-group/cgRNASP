@@ -1,6 +1,6 @@
 # cgRNASP
 cgRNASP: coarse-grained statistical potentials with residue separation for RNA structure evaluation.
-
+'''
 We developed our residue-separation-based CG statistical potentials (cgRNASP) at several CG levels: 
 
 (i) three CG beads at P, C4’, and N9 atoms for purine (or N1 atom for pyrimidine); 
@@ -13,8 +13,10 @@ Correspondingly, for simplicity, our CG statistical potentials were named as cgR
 
 Please feel free to contact us if you have any question!
 zjtan@whu.edu.cn
-
+'''
+'''
 Reference:
 
 [1] Zhou L, Wang X, Yu S, Tan YL, & Tan ZJ. 2022. FebRNA: an automated fragment-ensemble-based model for building RNA 3D structures. Biophys J. 121(18): 3381-3392.
 [1] Tan YL, Wang X, Yu S, Zhang B, & Tan ZJ. 2023. cgRNASP: coarse-grained statistical potentials with residue separation for RNA structure evaluation. NAR Genom Bioinform. 5(1): lqad016.
+'''
