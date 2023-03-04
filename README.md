@@ -15,6 +15,5 @@ Correspondingly, for simplicity, our CG statistical potentials were named as cgR
 Please feel free to contact us if you have any question!
 zjtan@whu.edu.cn
 
-Reference:
-
+Reference:                                      
 [1] Tan YL, Wang X, Yu S, Zhang B, & Tan ZJ. 2023. cgRNASP: coarse-grained statistical potentials with residue separation for RNA structure evaluation. NAR Genom Bioinform. 5(1): lqad016.
