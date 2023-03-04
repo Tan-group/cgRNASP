@@ -13,3 +13,7 @@ Correspondingly, for simplicity, our CG statistical potentials were named as cgR
 
 Please feel free to contact us if you have any question!
 zjtan@whu.edu.cn
+
+References:
+
+[1] Zhou L, Wang X, Yu S, Tan YL, Tan ZJ. 2022. FebRNA: an automated fragment-ensemble-based model for building RNA 3D structures. Biophys J. 121(18): 3381-3392.
