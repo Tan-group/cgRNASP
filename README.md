@@ -10,8 +10,8 @@ We developed our residue-separation-based CG statistical potentials (cgRNASP) at
 (iii) one CG bead on C4’ atom. 
 
 Correspondingly, for simplicity, our CG statistical potentials were named as cgRNASP, cgRNASP-PC, and cgRNASP-C, respectively. The first potential was named in such way since the potential of 3-bead representation was regarded as a representative one of the CG potentials.
-Please follow the readmes for using the respective statistical potentials.
 
+Please follow the readmes in the corresponding subfolders for using the respective statistical potentials.
 
 Please feel free to contact us if you have any question!
 zjtan@whu.edu.cn
