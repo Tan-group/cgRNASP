@@ -11,7 +11,7 @@ We developed our residue-separation-based CG statistical potentials (cgRNASP) at
 
 Correspondingly, for simplicity, our CG statistical potentials were named as cgRNASP, cgRNASP-PC, and cgRNASP-C, respectively. The first potential was named in such way since the potential of 3-bead representation was regarded as a representative one of the CG potentials.
 
-Please follow the readmes in the corresponding subfolders for using the respective statistical potentials. And the potentials were set to a high value of 10 kBT for atom pairs within 3 Å to exclude the structure candidates with severe steric conflicts; updated on August 8, 2024.
+Please follow the readmes in the corresponding subfolders for using the respective statistical potentials. And the potentials were set to a high value of 30 kBT for atom pairs within 3 Å to exclude the structure candidates with severe steric conflicts; updated on August 8, 2024.
 
 
 Please feel free to contact us if you have any question!
