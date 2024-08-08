@@ -1,8 +1,6 @@
 # cgRNASP
 cgRNASP: coarse-grained statistical potentials with residue separation for RNA structure evaluation.
 
-The potentials were set to a high value of 10 kBT for atom pairs within 3 Å to exclude the structure candidates with severe steric conflicts; updated on July 23, 2024.
-
 We developed our residue-separation-based CG statistical potentials (cgRNASP) at several CG levels: 
 
 (i) three CG beads at P, C4’, and N9 atoms for purine (or N1 atom for pyrimidine); 
@@ -13,7 +11,8 @@ We developed our residue-separation-based CG statistical potentials (cgRNASP) at
 
 Correspondingly, for simplicity, our CG statistical potentials were named as cgRNASP, cgRNASP-PC, and cgRNASP-C, respectively. The first potential was named in such way since the potential of 3-bead representation was regarded as a representative one of the CG potentials.
 
-Please follow the readmes in the corresponding subfolders for using the respective statistical potentials.
+Please follow the readmes in the corresponding subfolders for using the respective statistical potentials. And the potentials were set to a high value of 10 kBT for atom pairs within 3 Å to exclude the structure candidates with severe steric conflicts; updated on August 8, 2024.
+
 
 Please feel free to contact us if you have any question!
 zjtan@whu.edu.cn
