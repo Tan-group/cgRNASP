@@ -12,9 +12,10 @@ gcc cgRNASP-PC.c -lm -o cgRNASP-PC
 # An example usage in the “example” dir
 
  N=`ls *.pdb | wc -l`
+ ulimit -s unlimited                                                     // When N is very large, the command should be used.
  ./cgRNASP-PC ./ ${N} energy_list.txt
 
- Output:
+# Output:
    
   2_bujnicki_1_rpr.pdb     -388.989957 kBT
   4_adamiak_1_rpr.pdb     -542.125408 kBT
