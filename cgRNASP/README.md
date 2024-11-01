@@ -12,7 +12,7 @@ Coarse-grained statistical potential involving three CG beads at P, C4’, and N
 # An example usage in the “example” dir
 
  N=`ls *.pdb | wc -l`
- ulimit -s unlimited                                                     // When N is very large, please use the command.
+ ulimit -s unlimited                                                     // When N is very large, the command should be used.
  ./cgRNASP ./ ${N} energy_list.txt
 
  # Output:
