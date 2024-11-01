@@ -15,7 +15,7 @@ Coarse-grained statistical potential involving three CG beads at P, C4’, and N
  ulimit -s unlimited                                                     // When N is very large, please use the command.
  ./cgRNASP ./ ${N} energy_list.txt
 
- Output:
+ # Output:
    
   2_bujnicki_1_rpr.pdb     -715.410964 kBT
   4_adamiak_1_rpr.pdb     -909.539651 kBT
