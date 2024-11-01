@@ -7,6 +7,8 @@ Coarse-grained statistical potential involving three CG beads at P, C4’, and N
 ```
 # Compilation
 
+ ulimit -s unlimited // When the number of pdb is very large, please use the command.
+
  gcc cgRNASP.c -lm -o cgRNASP
 
 # An example usage in the “example” dir
